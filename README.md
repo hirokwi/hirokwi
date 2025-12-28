@@ -17,9 +17,3 @@ Gosto de criar projetos simples.
 </p>
 
 ---
-
-## 🎨 Fundo bonito (usando badges)
-
-![Badge Gradiente](https://img.shields.io/badge/Fundo-Colorido-ff69b4?style=for-the-badge&logo=github)  
-![Badge Gradiente](https://img.shields.io/badge/Visual-Agradável-00bfff?style=for-the-badge&logo=github)
-
