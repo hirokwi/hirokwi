@@ -13,5 +13,4 @@ Gosto de criar projetos simples e aprender sempre.
 
 ## Estatísticas de GitHub
 
-![Hiro GitHub stats](https://github-readme-stats.vercel.app/api?username=hirokwi&show_icons=true&theme=radical)  
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=hirokwi&layout=compact&theme=radical)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=hirokwi&layout=donut&theme=radical)
