@@ -1,7 +1,7 @@
-# Olá, eu sou o Hiro 👋
+# Olá, eu sou o Hiroki 👋
 
 Estudante de **Desenvolvimento de Sistemas**.  
-Gosto de criar projetos simples e aprender sempre.
+Gosto de criar projetos simples.
 
 ---
 
@@ -11,6 +11,3 @@ Gosto de criar projetos simples e aprender sempre.
 
 ---
 
-## Estatísticas de GitHub
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=hirokwi&layout=donut&theme=radical)
