@@ -1,7 +1,7 @@
 # Olá, eu sou o Hiroki 👋
 
 Estudante de **Desenvolvimento de Sistemas**.  
-Gosto de criar projetos.
+Gosto de criar projetos legais.
 
 ---
 
