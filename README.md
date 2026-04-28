@@ -1,11 +1,11 @@
 # Olá, eu sou o Hiroki 👋
 
-Estudante de **Desenvolvimento de Sistemas**.  
-Gosto de criar projetos legais.
+Estudante de Desenvolvimento de Sistemas (ETEC).  
+Foco em desenvolvimento web e aplicações práticas.
 
 ---
 
-## 💻 Linguagens e Tecnologias
+## 💻 Tecnologias
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" title="C#"/>
@@ -16,9 +16,9 @@ Gosto de criar projetos legais.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" title="Php"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" title="PHP"/>
 </p>
 
-
-
 ---
+
+Projetos disponíveis nos repositórios.
